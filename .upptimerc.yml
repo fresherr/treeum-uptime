@@ -5,6 +5,22 @@ repo: treeum-uptime # The name of this repository
 sites:
   - name: finance.ua
     url: https://finance.ua
+  - name: finance/insurance
+    url: https://finance.ua/ua/insurance
+  - name: finance/greencard
+    url: https://finance.ua/ua/insurance/greencard
+  - name: finance/osago
+    url: https://finance.ua/ua/insurance/osago
+  - name: finance/travel
+    url: https://finance.ua/ua/insurance/travel
+  - name: finance/credits
+    url: https://finance.ua/ua/credits/all
+  - name: finance/cards
+    url: https://finance.ua/ua/cards
+  - name: finance/news
+    url: https://news.finance.ua
+  - name: finance/rvk
+    url: https://finance.ua/ua/banks/a-bank
   - name: minfin.com.ua
     url: https://minfin.com.ua
   - name: Test Broken Site
