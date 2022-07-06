@@ -17,7 +17,7 @@ status-website:
   baseUrl: /treeum-uptime
   logoUrl: https://treeum.net/images/tild6238-3866-4136-b734-383832373432__treeum.png
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/fresherr/treeum-uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
